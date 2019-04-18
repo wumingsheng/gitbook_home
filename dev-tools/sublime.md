@@ -4,6 +4,7 @@
 
 ```json
 {
+	"update_check": false,
 	"atomic_save": true,
 	"auto_complete": true,
 	"auto_match_enabled": true,
@@ -28,6 +29,7 @@
 - Pretty JSON
 - SideBarEnhancements
 - zzz A File Icon zzz
+- Terminus
 
 
 

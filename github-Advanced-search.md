@@ -5,6 +5,7 @@
 - in:name  关键词
 - in:descripton 关键词
 - in:readme 关键词
+- in:topic java
 - user:wumingsheng
 - org:spring-cloud
 - stars:>3000 关键词

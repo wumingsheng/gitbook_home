@@ -14,5 +14,6 @@
 * 新浪微博图床
 * 谷歌上网助手
 * 谷歌访问助手
+* Proxy SwitchyOmega
 
 

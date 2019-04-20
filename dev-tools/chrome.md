@@ -17,6 +17,12 @@
 * Proxy SwitchyOmega
 * OneTab
 * Restlet Client - REST API Testing
+* Infinity 新标签页
+* Markdown Editor
+* Markdown Viewer
+* Quick Write Text Editor
+* Text Editor
+
 
 
 

@@ -17,7 +17,7 @@
 * Proxy SwitchyOmega
 * OneTab
 * Restlet Client - REST API Testing
-* Infinity 新标签页
+* Infinity 新标签页    wu_mingsheng@126.com wumingsheng
 * Markdown Editor
 * Markdown Viewer
 * Quick Write Text Editor

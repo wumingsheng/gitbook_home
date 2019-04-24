@@ -23,7 +23,9 @@
 * Quick Write Text Editor
 * Text Editor
 * Momentum
-
+* Google Mail Checker
+* 书签侧边栏
+* Infinity 新标签页(Pro)
 
 
 

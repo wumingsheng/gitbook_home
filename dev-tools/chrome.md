@@ -27,6 +27,8 @@
 * 书签侧边栏
 * Infinity 新标签页(Pro)
 * LastPass
+* PanicButton
+* 扩展管理器
 
 
 

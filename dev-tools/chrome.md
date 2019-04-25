@@ -26,6 +26,7 @@
 * Google Mail Checker
 * 书签侧边栏
 * Infinity 新标签页(Pro)
+* LastPass
 
 
 

@@ -29,6 +29,7 @@
 * LastPass
 * PanicButton
 * 扩展管理器
+* Tampermonkey
 
 
 

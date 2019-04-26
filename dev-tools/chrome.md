@@ -30,6 +30,9 @@
 * PanicButton
 * 扩展管理器
 * Tampermonkey
+* Reader View
+* R 阅读模式
+* 
 
 
 

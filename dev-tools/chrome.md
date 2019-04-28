@@ -34,6 +34,6 @@
 * R 阅读模式            阅读模式插件
 * Neater Bookmarks    书签插件
 * Holmes            书签搜索插件
-* Vimium   我一直在找的神器  快捷键o搜索 b标签 f显示页面标签 d向下翻页 x关闭当前页面 J左边的tab K右边的tab ^刚才的标签页 t 新建便签页 T标签页选择
+* Vimium     [o:搜索 b:标签 T:tab] 【f显示页面链接】  [x关闭当前页面 t 新建便签页] 【J左边的tab K右边的tab j向下翻页  k向上翻页】
 
 

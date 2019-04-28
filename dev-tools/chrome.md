@@ -34,6 +34,6 @@
 * R 阅读模式            阅读模式插件
 * Neater Bookmarks    书签插件
 * Holmes            书签搜索插件
-
+* Vimium
 
 

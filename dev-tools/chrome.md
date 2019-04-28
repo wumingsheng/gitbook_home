@@ -26,13 +26,14 @@
 * Google Mail Checker
 * 书签侧边栏
 * Infinity 新标签页(Pro)
-* LastPass
-* PanicButton
-* 扩展管理器
+* LastPass                密码管理插件
+* PanicButton             切换到隐身模式
+* 扩展管理器               插件管理器
 * Tampermonkey
-* Reader View
-* R 阅读模式
-* 
+* Reader View          阅读模式插件
+* R 阅读模式            阅读模式插件
+* Neater Bookmarks    书签插件
+* Holmes            书签搜索插件
 
 
 

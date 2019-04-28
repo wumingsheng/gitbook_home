@@ -34,6 +34,6 @@
 * R 阅读模式            阅读模式插件
 * Neater Bookmarks    书签插件
 * Holmes            书签搜索插件
-* Vimium
+* Vimium   我一直在找的神器  快捷键o
 
 

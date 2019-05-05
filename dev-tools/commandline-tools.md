@@ -11,9 +11,26 @@ sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install
 
 ## 2. ag：比grep、ack更快的递归搜索文件内容
 
-```
+```bash
 sudo apt-get install silversearcher-ag
+
+Usage: ag [FILE-TYPE] [OPTIONS] PATTERN [PATH]
+
+  Recursively search for PATTERN in PATH.
+  Like grep or ack, but faster.
+
+Example:
+  ag -i foo /bar/
 ```
+使用
+
+```bash
+
+$ ag -i apt-get .
+
+```
+
+
 
 
 
@@ -44,10 +61,39 @@ mycli -u root
 
 ```bash
 sudo apt-get install jq
+
+jq - commandline JSON processor [version 1.5-1-a5b5cbe]
+Usage: jq [options] <jq filter> [file...]
+
+
+```
+
+使用
+
+```bash
+$ curl localhost:8080/aaa|jq .map.age   
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   107    0   107    0     0  26750      0 --:--:-- --:--:-- --:--:-- 26750
+13
+
 ```
 
 
 ## 6. fzf：命令行下模糊搜索工具，能够交互式智能搜索并选取文件或者内容，配合终端ctrl-r历史命令搜索简直完美
+
+
+```bash
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+~/.fzf/install
+```
+
+
+- CTRL-T：搜索文件和目录
+- CTRL-R：搜索历史命令
+- ALT-C：列出当前文件夹下的目录
+
+
 
 
 ## 7. curl

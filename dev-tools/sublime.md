@@ -26,8 +26,11 @@
 - BetterSave
 - ConvertToUTF8
 - GitGutter
+- Http Requester
 - Pretty JSON
 - SideBarEnhancements
+- SqlBeautifier
+- SublimeServer
 - zzz A File Icon zzz
 - Terminus
 

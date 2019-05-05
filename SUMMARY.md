@@ -5,4 +5,5 @@
 * [开发工具](dev-tools/readme.md)
     * [sublime配置](dev-tools/sublime.md)
     * [chrome常用插件](dev-tools/chrome.md)
+    * [命令行工具](dev-tools/commandline-tools.md)
 

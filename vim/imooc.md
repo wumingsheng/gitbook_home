@@ -1,6 +1,6 @@
-# imooc-01:
+# imooc:
 
-## 文本对象
+## 1. 文本对象
 
 - {operator}{a}{object}
 - {operator}{i}{object}
@@ -11,7 +11,7 @@
 + a: 包含收尾
 + i: 只是内容本身，不包含收尾
 
-## object
+### 1.1 object
 
 | textobj                        |     说明                |
 | ----------                     |  -------                |
@@ -24,10 +24,10 @@
 
 
 
-> e需要借助插件【vim-textobj-user】【textobj-entire】
+> e对象，整个文本，需要借助插件【vim-textobj-user】【textobj-entire】
 
 
-## operator
+### 1.2 operator
 
 - `v` : 可视选中
 - `y` : 复制

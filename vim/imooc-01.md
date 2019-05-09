@@ -10,12 +10,15 @@
 
 ## object
 
-| textobj     |     说明         |
-| ----------  |  -------         |
-| w           |     word         |
-| s           |     sentence     |
-| p           |     paragraph    |
-| e           |     entire       |
+| textobj                        |     说明         |
+| ----------                     |  -------         |
+| w                              |     word         |
+| s                              |     sentence     |
+| p                              |     paragraph    |
+| e                              |     entire       |
+| 重复执行两次                   |     当前行       |
+| []、()、{}、""、<tag>          |     括号和标签[t]       |
+
 
 
 > e需要借助插件【vim-textobj-user】【textobj-entire】

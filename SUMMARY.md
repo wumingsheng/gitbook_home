@@ -9,6 +9,7 @@
 * [账户信息](account/readme.md)
     * [笔记账户](account/note.md)
 * [vim实用技巧](vim/readme.md)
+    * [imooc-01:](vim/imooc-01.md)
     * [技巧01:](vim/vim-01.md)
     * [技巧02:](vim/vim-02.md)
     * [技巧03:](vim/vim-03.md)

@@ -8,8 +8,10 @@
 + a: 包含收尾
 + i: 只是内容本身，不包含收尾
 
+## object
+
 | textobj     |     说明         |
-------------------------         
+| ----------  |  -------         |
 | w           |     word         |
 | s           |     sentence     |
 | p           |     paragraph    |
@@ -18,6 +20,18 @@
 
 > e需要借助插件【vim-textobj-user】【textobj-entire】
 
+
+## operator
+
+- y: 复制
+- p: 粘贴
+- c: 修改
+- d: 删除
+- x: 剪贴
+- >: 缩进
+- g~: 大小写转换【gu、gU】
+
+> 如果重复执行，代表作用当前行
 
 
 

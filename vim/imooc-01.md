@@ -13,14 +13,14 @@
 
 ## object
 
-| textobj                        |     说明         |
-| ----------                     |  -------         |
-| w                              |     word         |
-| s                              |     sentence     |
-| p                              |     paragraph    |
-| e                              |     entire       |
-| 重复执行两次                   |     当前行       |
-| []、()、{}、""、`<tag>`          |     括号和标签[t]       |
+| textobj                        |     说明                |
+| ----------                     |  -------                |
+| w                              |     word                |
+| s                              |     sentence            |
+| p                              |     paragraph           |
+| e                              |     entire              |
+| 重复执行两次                   |     当前行              |
+| []、()、{}、""、`<tag>`        |     括号和标签[t]       |
 
 
 
@@ -29,6 +29,7 @@
 
 ## operator
 
+- `v` : 可视选中
 - `y` : 复制
 - `p` : 粘贴
 - `c` : 修改

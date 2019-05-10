@@ -91,7 +91,10 @@
 3. 输入j多行合并一行（join缩写） 
 
 
+## 11. 复制粘贴
 
+1. normal模式下，粘贴，`"+p`    定义ctrl+v为normal模式下，粘贴外部    `nmap <c-v> "+p`
+2. insert模式下，粘贴，`<c-r>+`  定义ctrl+v为insert模式下，粘贴外部   `imap <c-v> <c-r>+`
 
 
 

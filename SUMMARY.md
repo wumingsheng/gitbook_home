@@ -9,6 +9,7 @@
 * [账户信息](account/readme.md)
     * [笔记账户](account/note.md)
 * [vim实用技巧](vim/readme.md)
+    * [vim环境配置](vim/env.md)
     * [imooc:](vim/imooc.md)
     * [技巧01:结实·命令](vim/vim-01.md)
     * [技巧02:不要自我重复](vim/vim-02.md)

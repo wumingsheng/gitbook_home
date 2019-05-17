@@ -131,6 +131,29 @@ sudo apt-get install tmux
 
 
 
+## 10 autojump
+
+```bash
+sudo apt install autojump -y
+source /usr/share/autojump/autojump.sh
+```
+
+
+```zshrc
+plugins=(git autojump)
+
+
+source /usr/share/autojump/autojump.sh
+
+source $ZSH/oh-my-zsh.sh
+```
+source .zshrc
+
+
+使用
+
+j 目录
+要跳到目录，首先需要cd 到目录一次
 
 
 

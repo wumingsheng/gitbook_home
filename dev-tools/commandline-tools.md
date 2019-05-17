@@ -120,4 +120,20 @@ curl localhost:8080/user/save -X POST -H "Content-Type: application/json" --data
 
 
 
+## 8. neovim
+
+## 9. tmux
+
+
+```bash
+sudo apt-get install tmux
+```
+
+
+
+
+
+
+
+
 

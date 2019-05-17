@@ -58,6 +58,7 @@
 - normal模式下粘贴系统剪切版的内容 `"+p`
 - insert模式下粘贴系统剪切板的内容 `<c-r>+`
 - 如果设置了autoindent的缩进问题，先:set paste   粘贴完成以后：set nopasts
+- set clipboard=unnamed    系统剪贴版不用+寄存器，使用了无名寄存器这样y/p可以和系统交互
 
 
 

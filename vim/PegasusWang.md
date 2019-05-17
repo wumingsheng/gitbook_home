@@ -40,4 +40,36 @@
 
 
 
+- 窗口之间的切换
+- c-w-s水平分割 c-w-v垂直分割  或者:sp :vs 在nerdtree中使用i/s
+- c-w-w循环切换
+- c-w-{h、j、k、l}/{上下左右方向键} 按照方向切换 c-w是窗口切换的前缀
+    大写的HKJL是窗口的切换不是光标的左右移动
+
+- 文本对象
+- [number]<command>[text-object]
+- number次数
+- command y（yank复制）d(delete删除) c(change修改)
+- s句子 w单词 p段落 e(entity整个文本)
+- i inner（不包括空格） a around（环绕包括空格）
+
+
+
+- normal模式下粘贴系统剪切版的内容 `"+p`
+- insert模式下粘贴系统剪切板的内容 `<c-r>+`
+- 如果设置了autoindent的缩进问题，先:set paste   粘贴完成以后：set nopasts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -61,6 +61,14 @@
 - set clipboard=unnamed    系统剪贴版不用+寄存器，使用了无名寄存器这样y/p可以和系统交互
 
 
+- 补全
+1. c-n c-p 补全单词
+2. c-x c-f 补全文件名
+3. c-x c-o 代码补全
+
+
+- 配置
+- :colorschema显示当前的配色 `:colorschema <c-d>` 显示所有可用配色
 
 
 

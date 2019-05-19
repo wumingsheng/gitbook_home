@@ -129,7 +129,35 @@ curl localhost:8080/user/save -X POST -H "Content-Type: application/json" --data
 sudo apt-get install tmux
 ```
 
+ctrl+b => tmux prefix
 
+**layouts 布局**
+
+1. server 服务
+2. session 回话
+3. window 窗口
+4. pane 窗格
+
+**window 窗口**
+
+- c - new a window   新建窗口
+- & - close current window 关闭窗口
+- l - switch to last window 切换窗口
+
+- n - next window   切换到下一个窗口
+- p - previous window 切换到上一个窗口
+
+- w - show window ment list 窗口的菜单列表
+
+**pane 窗格**
+
+- % - horizontal split 垂直分屏
+- " - vertical split 水平分屏
+
+- x - close current pane 关闭窗格
+- ; - switch to last pane 切换窗格
+- o - swtich pane clockwise 顺时针转换窗格
+- C-o - swap pane anti-clockwise 逆时针转换窗格
 
 ## 10 autojump
 

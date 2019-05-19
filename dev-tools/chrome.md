@@ -47,5 +47,4 @@
 * Holmes            书签搜索插件
 * Vimium     [o:搜索 b:标签 T:tab] 【f显示页面链接】  [x关闭当前页面 t新建便签页] 【J左边的tab K右边的tab j向下翻页  k向上翻页】【H:后退 L:前进】
 * Set Character Encoding
-
-
+* crxMouse    

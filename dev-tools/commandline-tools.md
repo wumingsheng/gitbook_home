@@ -8,6 +8,12 @@ sudo apt install zsh
 sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
 ```
+https://github.com/zplug/zplug
+
+
+
+
+
 
 ## 2. ag：比grep、ack更快的递归搜索文件内容
 
